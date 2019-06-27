@@ -2,6 +2,8 @@
 
 ## Configuration
 
+Note: If you are using toml remove your command argument --api.
+
 ```toml
 # API definition
 # Warning: Enabling API will expose Traefik's configuration.
